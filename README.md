@@ -226,6 +226,8 @@ For easy purchasing a link to amazon.com *(for the time being only the US versio
     
 ## Personal Growth, Learning & Career Hacks
 
-    - Cracking the Coding Interview: 189 Programming Questions and Solutions. McDowell, Gayle Laakmann. 6th Editon. 2015. 
-    https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_2?ie=UTF8&qid=1547634477&sr=8-2.
-    https://www.amazon.de/Cracking-Coding-Interview-6th-Programming/dp/0984782850/ref=sr_1_1?ie=UTF8&qid=1547634548&sr=8-1.
+    - Cracking the Coding Interview: 189 Programming Questions and Solutions
+    - McDowell, Gayle Laakmann
+    - 6th Editon
+    - 2015. 
+    - https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_2?ie=UTF8&qid=1547634477&sr=8-2.
