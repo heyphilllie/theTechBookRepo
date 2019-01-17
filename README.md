@@ -42,9 +42,19 @@ For easy purchasing a link to amazon.com *(for the time being only the US versio
     - 2011
     - https://www.amazon.com/gp/product/0137081073/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1
     
-## Computer Science 
+## Computer Science & Algorithms
+    - Introduction to Algorithms (MIT Press)
+    - Cormen, Thomas H. & Leierson, Charles E. & Rivest, Ronald L. & Stein, Clifford
+    - 2009
+    - 3rd Edition
+    - https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_2?ie=UTF8&qid=1547719037&sr=8-2&keywords=Introduction+to+Algorithms%2C+3rd+Edition
+
+    - Computer Science Distilled: Learn the Art of Solving Computational Problems
+    - Filho, Wladston Ferreira & Pictet, Raimondo
     - 
-    
+    - 2017
+    - https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020/ref=sr_1_1?ie=UTF8&qid=1547719288&sr=8-1&keywords=Computer+Science+Distilled+-+Learn+the+art+of+solving+computational+problems
+        
 ## Mathematical Fundamentals
     - A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
     - Oakley, Barbara
@@ -57,9 +67,34 @@ For easy purchasing a link to amazon.com *(for the time being only the US versio
 ## Programming / Scripting Languages
 
 ### C
+    - C Programming Language
+    - Kernighan, Brian W. & Ritchie, Dennis M.
+    - 1988
+    - 2nd Edition
+    - https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ref=sr_1_3?ie=UTF8&qid=1547718911&sr=8-3&keywords=c+programming+language
+
+### C++
+    - C++ Primer
+    - Lippman, Stanley B. & Lajoie, Josée & Moo, Barbara E.
+    - 2012
+    - 5th Edition
+    - https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?ie=UTF8&qid=1547719147&sr=8-1&keywords=C%2B%2B+primer
+        
 ### Python
 ### PHP
 ### JAVA
+    - Head First JAVA: A Brain-Friendly Guide
+    - Sierra, Kathy & Bates, Bert
+    - 2005
+    - 2nd Edition
+    - https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=sr_1_1?ie=UTF8&qid=1547718825&sr=8-1&keywords=Head+First+JAVA
+    
+    - Effective Java
+    - Bloch, Joshua
+    - 2018
+    - 3rd Edition
+    - https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997/ref=sr_1_2?ie=UTF8&qid=1547718981&sr=8-2&keywords=Effective+Java
+    
 ### GO
 ### JavaScript
 ### HTML & CSS
@@ -85,7 +120,7 @@ For easy purchasing a link to amazon.com *(for the time being only the US versio
     - 1994
     - https://www.amazon.com/dp/0201633612/_encoding=UTF8?coliid=I1LOZ6WG606ZNU&colid=1O82G0QW9TOE&psc=0
     
-    - Code Complete: A Practical Handbook of Software Construction, Second Edition
+    - Code Complete: A Practical Handbook of Software Construction
     - McConnell, Steve
     - 2nd Edition
     - 2004
@@ -102,7 +137,19 @@ For easy purchasing a link to amazon.com *(for the time being only the US versio
     - 2nd Edition
     - 2004
     - https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0/ref=mt_kindle?_encoding=UTF8&me=
+    
+    - Working Effectively with Legacy Code:
+    - Feathers, Michael
+    - 2004
+    - 1st Edition
+    - https://www.amazon.com/Working-Effectively-Legacy-Robert-Martin-ebook/dp/B005OYHF0A/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1514401458&sr=1-1&keywords=working+effectively+with+legacy+code
 
+    - Head First Design Patterns: A Brain-Friendly Guide
+    - Freeman, Eric & Bates, Bert & Sierra, Kathy & Robson, Elisabeth
+    - 2004
+    - 1st Edition
+    - https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=sr_1_1?ie=UTF8&qid=1547718634&sr=8-1&keywords=Head+First+Design+Patterns
+    
 ## Data Science
 
 ### Visualization
@@ -112,8 +159,7 @@ For easy purchasing a link to amazon.com *(for the time being only the US versio
 ## Security
 
 ## Hacker & Ethics, Reverse Engineering & Cyber Warfare
-    - Hacker Ethic and the Spirit of the Information Age
-    - 
+    
 
 ## Tech Industry
     - Chaos Monkey: Obsence Fortune and Random Failure in Silicon Valley
@@ -154,11 +200,11 @@ For easy purchasing a link to amazon.com *(for the time being only the US versio
     - https://www.amazon.com/Inside-Cyber-Warfare-Mapping-Underworld/dp/1449310044/ref=sr_1_1?ie=UTF8&qid=1547718235&sr=8-1&keywords=Inside+Cyber+Warfare%3A+Mapping+the+Cyber+Underworld
     
 ## Culture, (Project-) Management & Leadership
-    - Brave Leadership
+    - Brave Leadership: Unleash Your Most Confident, Powerful, and Authentic Self to Get the Results You Need
     - Davis, Kimberly
     - 
-    - 
-    - 
+    - 2018
+    - https://www.amazon.com/Brave-Leadership-Confident-Powerful-Authentic/dp/1626344337/ref=sr_1_3?ie=UTF8&qid=1547718414&sr=8-3&keywords=Brave+leadership
     
     - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
     - Fournier, Camille
@@ -172,6 +218,12 @@ For easy purchasing a link to amazon.com *(for the time being only the US versio
     - 2018
     - https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/ref=sr_1_1?ie=UTF8&qid=1547717284&sr=8-1&keywords=The+Phoenix+Project+by+Gene+Kim
 
+    - Agile Esimating and Planning
+    - Martin, Robert C.
+    - 2005
+    - 1st Edition
+    - https://www.amazon.com/Agile-Estimating-Planning-Robert-Martin-ebook/dp/B004X1D3TC/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1514401509&sr=1-1&keywords=agile+estimating+and+planning
+    
 ## Personal Growth, Learning & Career Hacks
 
     - Cracking the Coding Interview: 189 Programming Questions and Solutions. McDowell, Gayle Laakmann. 6th Editon. 2015. 
