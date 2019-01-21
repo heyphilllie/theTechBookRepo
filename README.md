@@ -36,18 +36,21 @@ web to centralized list (web app) with still keeping it as simple as possible.
 - organized through categories / sub-categories
 - filter 
 - search 
-- displaying *badges* like 
+- displaying ***badges / tags*** like 
+    - Advanced
+    - Aimed for Beginners (with no prior knowledge)
     - Beginner-Friendly
-    - Written by a Woman
+    - Written by Women/Woman
     - Timeless Classic
     - Theory-Only
     - With Practical Exercises
+    - Glossary / comprehensive work, introduction
 - link to amazon.com for easy purchasing
 
 **Future Feature Ideas**
 
 - Login via GitHub or Twitter
-- save as Books as Favorite and/or Wanna-Reads
+- save as Books as Favorite and/or Wanna-Reads and/or Have-Read
 - recommend books (Upvoting) 
 
 ## Contribution
@@ -56,4 +59,3 @@ If you want to add a book, just open a Pull Request.
 
 ## What's next
 
-## License
