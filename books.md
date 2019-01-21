@@ -1,4 +1,38 @@
-## Code in General, Programming (Paradigms) & Architecture
+# Table Of Contents
+
+1. Code in General, Programming Paradigms & Architecture
+2. Computer Science & Algorithms
+3. Mathematical Fundamentals
+4. Database
+5. Programming / Scripting Languages
+    1. C
+    2. C++
+    3. Python
+    4. PHP
+    5. Java
+    6. GO
+    7. JavaScript
+    8. HTML / CSS
+6. Mobile Development
+    1. iOS Development
+    2. Android Development
+7. Web Development and Frameworks        
+8. Front End Engineering, UI & UX
+9. Software Engineering & Design Patterns
+10. Data Science
+    1. Data Visualization
+    2. Machine Learning
+    3. Artificial Intelligence
+11. Security
+12. Hacker & Ethics, Reverse Engineering & Cyber Warfare    
+13. Tech Industry 
+14. Digital Age, Digital Revolution & IoT
+15. Culture, (Project-) Management & Leadership
+16. Personal Growth, Learning & Career Hacks
+    
+
+
+## Code in General, Programming Paradigms & Architecture
 - The Pragmatic Programmer: From Journeyman to Master
     - Hunt, Andrew & Thomas, David
     - 1st Edition
