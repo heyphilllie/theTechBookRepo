@@ -11,7 +11,7 @@ Books in each category are cataloged by titel, author, and year of publication. 
 
 For easy purchasing a link to amazon.com *(for the time being only the US version)* is added. 
 
-TL;DR Click [here](books.md) to jump directly to the books that are already submitted.
+**TL;DR Click [here](books.md) to jump directly to the books that are already submitted.**
 
 ## The Idea
 
