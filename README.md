@@ -1,5 +1,5 @@
 # theTechBookRepo
-A miscellany of must-read books in Tech.
+A miscellany of must-read books in Tech, for programmers, developers and managers.
 
 Books in each category are cataloged by titel, author, and year of publication. If applicable, sub-categories are added to main category.
 
@@ -10,6 +10,8 @@ Books in each category are cataloged by titel, author, and year of publication. 
     - Link to amazon.com
 
 For easy purchasing a link to amazon.com *(for the time being only the US version)* is added. 
+
+The goal of this page is to make you a more proficient developer. You'll find only resources that other developers found truly inspiring - or that have been become timeless classics.
 
 **TL;DR Click [here](books.md) to jump directly to the books that are already submitted.**
 
