@@ -1,7 +1,9 @@
 # theTechBookRepo
-A miscellany of must-read books in Tech, for programmers, developers and managers.
+A miscellany of must-read books for programmers - developers and anyone interested in a good tech book.
 
-Books in each category are cataloged by titel, author, and year of publication. If applicable, sub-categories are added to main category.
+The goal of this page is to make you a more proficient developer. You'll find only books that other developers found truly inspiring - or that have been become timeless classics.
+
+Books in each category are cataloged by categroy, title, author, edition, and year of publication. If applicable, sub-categories are added to main category.
 
     - Titel
     - Author
@@ -11,40 +13,45 @@ Books in each category are cataloged by titel, author, and year of publication. 
 
 For easy purchasing a link to amazon.com *(for the time being only the US version)* is added. 
 
-The goal of this page is to make you a more proficient developer. You'll find only resources that other developers found truly inspiring - or that have been become timeless classics.
-
-**TL;DR Click [here](books.md) to jump directly to the books that are already submitted.**
+**TL;DR Click [here](books.md) to take a shortcut and browse through the books that already have been submitted.**
 
 ## The Idea
 
-From decentralized lists to centralized list, still as simple as possible
+The idea is to summarize the most recommended books in tech into one repository. From decentralized lists all over the 
+web to centralized list (web app) with still keeping it as simple as possible
 
-Technically:
+Technically
  
-- Github repository
-- Submitting book via Pull requests
-- hosted on GitHub *(for the time being)*
+- Github Repository to store the data and make contributions easy
+    - Contributing / submitting a book via PR
+- web page hosted on GitHub *(for the time being)*
 - using a static site generator to update the front end 
-- SOLR or similar
+- integrating Solr as a built-in search
 
-User Interface:
+User Interface
 
-- displaying books with basic info plus and description
+- displaying books with basic info (as mentioned in the intro)
 - organized through categories / sub-categories
 - filter 
 - search 
-- descripion like recommended best for *xxx*
-- link to amazon for easy purchasing
+- displaying *badges* like 
+    - Beginner-Friendly
+    - Written by a Woman
+    - Timeless Classic
+    - Theory-Only
+    - With Practical Exercises
+- link to amazon.com for easy purchasing
 
 Feature Ideas for Future Updates: 
 
+Future Feature ideas
+
 - Login via GitHub or Twitter
-- save as favorite / wanna-reads
-- recommend books
+- save as Books as Favorite and/or Wanna-Reads
+- recommend books (Upvoting) 
 
 ## Contribution
 
 If you want to add a book, just open a Pull Request. 
 
 ## Upcoming
-
