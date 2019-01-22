@@ -18,7 +18,7 @@
     2. [Android Development](books.md#android-development)
 7. **[Web Development & Frameworks](books.md#web-development--frameworks)**        
 8. **[Front End Engineering, UI & UX](books.md#front-end-engineering-ui--ux)**
-9. **[Software Engineering & Design Patterns](books.md#software-engineering-patterns)**
+9. **[Software Engineering & Design Patterns](books.md#software-engineering--design-patterns)**
 10. **[Data Science](books.md#data-science)**
     1. [Data Visualization](books.md#data-visualization)
     2. [Machine Learning](books.md#machine-learning)
@@ -133,7 +133,7 @@
     - 2017 (1st Edition)
     - [Get on Amazon.com](https://www.amazon.com/Progressive-Apps-Dean-Alan-Hume/dp/1617294586/ref=sr_1_4?ie=UTF8&qid=1547716298&sr=8-4&keywords=Progressive+Web+Apps)
 
-## Software Engineering (Patterns)
+## Software Engineering & Design Patterns
 - **Design Patterns: Elements of Reusable Object-Oriented Software**
     - Gamma, Erich & Helm, Richard & Johnson, Ralph & Vlissides, John & Booch, Grady
     - 1994 (1st Edition)
