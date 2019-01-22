@@ -1,6 +1,6 @@
 # Table Of Contents
 
-1. Code in General, Programming Paradigms & Architecture
+1. [Code in General, Programming Paradigms & Architecture](books.md#code-in-general-programming-paradigms--architecture)
 2. Computer Science & Algorithms
 3. Mathematical Fundamentals
 4. Database
