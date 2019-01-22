@@ -1,7 +1,7 @@
 # theTechBookRepo
 
-## In a Nutshell
-A miscellany of must-read books for programmers - developers and anyone interested in a good tech book.
+## What
+A curated collection of must-read books for programmers - developers and anyone interested in a good tech book.
 
 The goal of this page is to make you a more proficient developer. You'll find only books that other developers found truly inspiring - or that have been become timeless classics.
 
@@ -17,10 +17,12 @@ For easy purchasing a link to amazon.com *(for the time being only the US versio
 
 **TL;DR Click [here](books.md) to take a shortcut and browse through the books that already have been submitted.**
 
-## The Idea
+## How
 
 The idea is to summarize the most recommended books in tech into one repository. From decentralized lists all over the 
 web to centralized list (web app) with still keeping it as simple as possible.
+
+**For contribution details see the [contribution file](contribution.md).**
 
 **On the technical side**
  
@@ -53,9 +55,6 @@ web to centralized list (web app) with still keeping it as simple as possible.
 - save as Books as Favorite and/or Wanna-Reads and/or Have-Read
 - recommend books (Upvoting) 
 
-## Contribution
-
-If you want to add a book, just open a Pull Request. 
 
 ## What's next
 
