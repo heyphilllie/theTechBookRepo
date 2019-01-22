@@ -8,10 +8,11 @@ The goal of this page is to make you a more proficient developer. You'll find on
 Books in each category are cataloged by categroy, title, author, edition, and year of publication. If applicable, sub-categories are added to main category.
 
     - Titel
-    - Author
-    - Edition
-    - Year
+    - Tweet-Like Description (in max. 280 char)
+    - Author / Authors
+    - Year (and possibly Editon)
     - Link to amazon.com
+    - Why it is recommended
 
 For easy purchasing a link to amazon.com *(for the time being only the US version)* is added. 
 
@@ -30,7 +31,7 @@ web to centralized list (web app) with still keeping it as simple as possible.
     - Contributing / submitting a book via PR
 - web page hosted on GitHub *(for the time being)*
 - using a static site generator to update the front end 
-- integrating Solr as a built-in search
+- integrating Solr as the built-in search
 
 **On the front end side**
 
