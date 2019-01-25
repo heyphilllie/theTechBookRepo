@@ -67,7 +67,9 @@ Keep in mind, that this list is far from being complete and more of a constant w
 
 ## Contributing to this list
 
-Feel free to open a PR to contribute! For more information read the [contribution file](contribution.md).
+Feel free to open a PR to contribute - whether it be a submission of a book, fixing content and/or spelling mistakes or make a suggestion for improvement! We're always happy to hear from you. 
+
+For more information read the [contribution file](contribution.md).
 
 ## The Vision
 
