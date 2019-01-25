@@ -65,7 +65,7 @@
 
 - **Introduction to Algorithms (MIT Press)**
     - Cormen, Thomas H. & Leierson, Charles E. & Rivest, Ronald L. & Stein, Clifford
-    - 2009 (3rd Edition)    - 
+    - 2009 (3rd Edition)
     - [Get on Amazon.com](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_2?ie=UTF8&qid=1547719037&sr=8-2&)
 
 - **Computer Science Distilled: Learn the Art of Solving Computational Problems**
@@ -73,6 +73,20 @@
     - 2017
     - [Get on Amazon.com](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020/ref=sr_1_1?ie=UTF8&qid=1547719288&sr=8-1&)
            
+- **Structure and Interpretation of Computer Programs**
+    - Abelson, Harold & Sussmann, Gerald Jay & Sussman, Julie
+    - 1996 (2nd Edition) 
+    - Structure and Interpretation of Computer Programs has had a dramatic impact on computer science curricula over the past decade. This long-awaited revision contains changes throughout the text. There are new implementations of most of the major programming systems in the book, including the interpreters and compilers, and the authors have incorporated many small changes that reflect their experience teaching the course at MIT since the first edition was published.
+    - [Get on Amazon.com](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871?SubscriptionId=AKIAI7CDZ6GCMNSOTDZQ&tag=favorites090-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0262510871)
+    - recommended because: To anyone not sure of what this stands for, it is Structure and Interpretation of Computer Programs and is a very good read for those looking to learn about comp science. It does require commitment in that it is not a book you rush through, rather you take your time and make sure you understand it bit by bit - but worth it because it makes sure you get a solid foundation of cs knowledge.
+
+- **The Art of Computer Programming (Volumes 1-4)**
+    - Knuth, Donald E.
+    - 2011 (1st Edition)
+    - [Get on Amazon](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043?SubscriptionId=AKIAI7CDZ6GCMNSOTDZQ&tag=favorites090-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0321751043)
+    - The bible of all fundamental algorithms and the work that taught many of today’s software developers most of what they know about computer programming.
+    - recommended because: Whatever your background, if you need to do any serious computer programming, you will find your own good reason to make each volume in this series a readily accessible part of your scholarly or professional library. Countless readers have spoken about the profound personal influence of Knuth’s work. Scientists have marveled at the beauty and elegance of his analysis, while ordinary programmers have successfully applied his “cookbook” solutions to their day-to-day problems. All have admired Knuth for the breadth, clarity, accuracy, and good humor found in his books.
+
 ## Mathematical Fundamentals
 
 - **A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)**
@@ -95,7 +109,13 @@
     - Lippman, Stanley B. & Lajoie, Josée & Moo, Barbara E.
     - 2012 (5th Edition)
     - [Get on Amazon.com](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?ie=UTF8&qid=1547719147&sr=8-1&keywords=C%2B%2B+primer)
-        
+
+- ** The C++ Programming Language**
+    - Stroustrup, Bjarne
+    - 2013 (4th Edition)   
+     - The new C++11 standard allows programmers to express ideas more clearly, simply, and directly, and to write faster, more efficient code. Bjarne Stroustrup, the designer and original implementer of C++, has reorganized, extended, and completely rewritten his definitive reference and tutorial for programmers who want to use C++ most effectively.
+     - recommended because: It's considered a classic, though it serves to introduce the language (and preferably, the rationale behind it) to someone who is already familiar with computer programming.
+     - [Get on Amazon.com](https://www.amazon.com/Programming-Language-hardcover-4th/dp/0321958322?SubscriptionId=AKIAI7CDZ6GCMNSOTDZQ&tag=favorites090-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0321958322)
 ### Python
 ### PHP
 ### JAVA
@@ -111,6 +131,12 @@
     
 ### GO
 ### JavaScript
+- **JavaScript: The Good Parts**
+    - Crockford, Douglas
+    - 2008 (1st Edition)
+    - [Get on Amazon.com](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742?SubscriptionId=AKIAI7CDZ6GCMNSOTDZQ&tag=favorites090-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0596517742)
+    -  This is a book about the JavaScript programming language. It is intended for programmers who, by happenstance or curiosity, are venturing into JavaScript for the first time. It is also intended for programmers who have been working with JavaScript at a novice level and are now ready for a more sophisticated relationship with the language. JavaScript is a surprisingly powerful language. Its presents some challenges, but being a small language, it is easily mastered. 
+    - recommended because: it's a great book that will bring your understanding of JS from intermediate to the beginnings of expert.
 ### HTML & CSS
 
 ## Mobile Development
