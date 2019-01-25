@@ -1,7 +1,7 @@
 # Table Of Contents
 
 1. **[Coding in General & Programming Paradigms](books.md#coding-in-general--programming-paradigms)**
-2. **[Computer Science & Algorithms](boks.md#computer-science--algorithms)**
+2. **[Computer Science & Algorithms](books.md#computer-science--algorithms)**
 3. **[Mathematical Fundamentals](books.md#mathematical-fundamentals)**
 4. **[Databases](books.md#database-relational-document-based-sql-nosql)**
 5. **[Programming & Scripting Languages](books.md#programming--scripting-languages)**
