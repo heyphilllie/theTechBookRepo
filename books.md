@@ -3,7 +3,7 @@
 1. **[Coding in General & Programming Paradigms](books.md#coding-in-general--programming-paradigms)**
 2. **[Computer Science & Algorithms](boks.md#computer-science--algorithms)**
 3. **[Mathematical Fundamentals](books.md#mathematical-fundamentals)**
-4. **[Database](books.md#database-relational-document-based-sql-nosql)**
+4. **[Databases](books.md#database-relational-document-based-sql-nosql)**
 5. **[Programming & Scripting Languages](books.md#programming--scripting-languages)**
     1. [C](books.md#c)
     2. [C++](books.md#c-1)
@@ -37,17 +37,17 @@
 
 
 - **The Pragmatic Programmer: From Journeyman to Master**
-    - Written as a series of self-contained sections and filled with entertaining anecdotes, thoughtful examples, and interesting analogies, The Pragmatic Programmer illustrates the best practices and major pitfalls of many different aspects of software development.   
     - Hunt, Andrew & Thomas, David
     - 1999 (1st Edition)
+    - Written as a series of self-contained sections and filled with entertaining anecdotes, thoughtful examples, and interesting analogies, The Pragmatic Programmer illustrates the best practices and major pitfalls of many different aspects of software development.
     - **Recommended because:**
         - It's an enlightening and timeless advice about doing your job as a software developer, ideas written in 1999 still relevant today. It forces you to revisit those basic fundamental topics with a very different perspective.
     - **[Get on Amazon.com](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_5?ie=UTF8&qid=1547633661&sr=8-5)**
 
 - **Programming Pearls**
-    - With origins beyond solid engineering, in the realm of insight and creativity, Bentley's pearls offer unique and clever solutions to those nagging problems. Illustrated by programs designed as much for fun as for instruction, the book is filled with lucid and witty descriptions of practical programming techniques and fundamental design principles.
     - Bentley, Jon 
     - 1999 (2nd Edition)
+    - With origins beyond solid engineering, in the realm of insight and creativity, Bentley's pearls offer unique and clever solutions to those nagging problems. Illustrated by programs designed as much for fun as for instruction, the book is filled with lucid and witty descriptions of practical programming techniques and fundamental design principles.
     - **Recommended because:**
        - This work is an all-time classic, highly valued by programmers at every level of experience, and often described as one of the most influentiual books read in a programmer's career.
     - **[Get on Amazon.com](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880/ref=sr_1_1?ie=UTF8&qid=1547716416&sr=8-1&)**
