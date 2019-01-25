@@ -69,12 +69,16 @@ Keep in mind, that this list is far from being complete and more of a constant w
 
 Feel free to open a PR to contribute - whether it be a submission of a book, fixing content and/or spelling mistakes or make a suggestion for improvement! We're always happy to hear from you. 
 
+If you've got questions or anything else, feel also feel free to get in touch!
+
 For more information read the [contribution file](contribution.md).
 
 ## The Vision
 
 We're thinking about building a wep app around this Repository. I mean, seriously, who doesn't like a fancy-schmancy web app?! 
 And more important, who doesn't like creating a web app?! 
+
+
 
 
 
