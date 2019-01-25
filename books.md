@@ -1,6 +1,6 @@
 # Table Of Contents
 
-1. **[Code in General, Programming Paradigms & Architecture](books.md#code-in-general-programming-paradigms--architecture)**
+1. **[Coding in General & Programming Paradigms](books.md#coding-in-general--programming-paradigms)**
 2. **[Computer Science & Algorithms](boks.md#computer-science--algorithms)**
 3. **[Mathematical Fundamentals](books.md#mathematical-fundamentals)**
 4. **[Database](books.md#database-relational-document-based-sql-nosql)**
@@ -18,7 +18,7 @@
     2. [Android Development](books.md#android-development)
 7. **[Web Development & Frameworks](books.md#web-development--frameworks)**        
 8. **[Front End Engineering, UI & UX](books.md#front-end-engineering-ui--ux)**
-9. **[Software Engineering & Design Patterns](books.md#software-engineering--design-patterns)**
+9. **[Software Engineering, Patterns & Architecture](books.md#software-engineering-patterns--architecture)**
 10. **[Data Science](books.md#data-science)**
     1. [Data Visualization](books.md#data-visualization)
     2. [Machine Learning](books.md#machine-learning)
@@ -32,7 +32,7 @@
     
 
 
-## Code in General, Programming Paradigms & Architecture
+## Coding in General & Programming Paradigms
 
 
 
@@ -58,11 +58,6 @@
     - **Recommended because:**
         - Justly described as amust for any developer, software engineer, project manager, team lead, or systems analyst with an interest in producing better code. Best agile practices of cleaning code “on the fly” that will instill within you the values of a software craftsman and make you a better programmer—but only if you work at it. 
     - **[Get on Amazon.com](https://www.amazon.com/gp/product/0132350882/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)**
-    
-- **Clean Architecture: A Craftsman's Guide to Software Structure and Design**
-    - Martin, Robert C.    - 
-    - 2017 (1st Edition)
-    - [Get on Amazon.com](https://www.amazon.com/gp/product/0134494164/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1)
     
 - **The Clean Coder: A Code of Conduct for professional Programmers**
     - Martin, Robert C.
@@ -133,7 +128,12 @@
     - 2017 (1st Edition)
     - [Get on Amazon.com](https://www.amazon.com/Progressive-Apps-Dean-Alan-Hume/dp/1617294586/ref=sr_1_4?ie=UTF8&qid=1547716298&sr=8-4&keywords=Progressive+Web+Apps)
 
-## Software Engineering & Design Patterns
+## Software Engineering, Patterns & Architecture
+- **Clean Architecture: A Craftsman's Guide to Software Structure and Design**
+    - Martin, Robert C.    - 
+    - 2017 (1st Edition)
+    - [Get on Amazon.com](https://www.amazon.com/gp/product/0134494164/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1)
+    
 - **Design Patterns: Elements of Reusable Object-Oriented Software**
     - Gamma, Erich & Helm, Richard & Johnson, Ralph & Vlissides, John & Booch, Grady
     - 1994 (1st Edition)
