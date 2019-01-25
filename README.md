@@ -1,14 +1,15 @@
-# theTechBookRepo
+# The Tech Book Repository
+This repository is a curated collection of *must-read* books for programmers, developers and anyone interested in a good tech book. 
+The idea is to summarize the most recommended books in tech into one repository. From decentralized lists all over the 
+web to centralized list (web app) with still keeping it as simple as possible.
 
-## The Introduction
-This repository is a curated collection of *must-read* books for programmers, developers and anyone interested in a good tech book.
+The goal of this page is to make you a more proficient programmer. You'll find only books that other developers found truly inspiring - or that have been become timeless classics.
 
 **TL;DR**
 
 **Click [here](books.md) to take a shortcut and browse through the books that already have been submitted.**
 
-The goal of this page is to make you a more proficient programmer. You'll find only books that other developers found truly inspiring - or that have been become timeless classics.
-
+## The Content
 Books in each category *(if applicable, sub-categories were added to main category)* are cataloged by: 
 
     - title 
@@ -24,8 +25,11 @@ For easy purchasing a link to amazon.com *(for the time being only the US versio
 
     - Get on Amazon.com
 
+This page is not meant to be complete. We are trying to keep the balance between light and not too overwhelming but yet comprehensive.
 
-## The Content
+The selection of book is opinionated.
+
+## Categories
 
 1. **[Coding in General & Programming Paradigms](books.md#coding-in-general--programming-paradigms)**
 2. **[Computer Science & Algorithms](boks.md#computer-science--algorithms)**
@@ -60,15 +64,10 @@ For easy purchasing a link to amazon.com *(for the time being only the US versio
 
 Keep in mind, that this list is far from being complete and more of a constant work in progress, which is updated continuously. 
 
-**For contribution details see the [contribution file](contribution.md).** 
 
-## The Idea
+## Contributing to this list
 
-The idea is to summarize the most recommended books in tech into one repository. From decentralized lists all over the 
-web to centralized list (web app) with still keeping it as simple as possible.
- 
-We are using this Github Repository to store the data and make contributions easy.
-
+Feel free to open a PR to contribute! For more information read the [contribution file](contribution.md).
 
 ## The Vision
 
