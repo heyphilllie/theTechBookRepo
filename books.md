@@ -34,14 +34,11 @@
 
 ## Coding in General & Programming Paradigms
 
-
-
 - **The Pragmatic Programmer: From Journeyman to Master**
     - Hunt, Andrew & Thomas, David
     - 1999 (1st Edition)
     - Written as a series of self-contained sections and filled with entertaining anecdotes, thoughtful examples, and interesting analogies, The Pragmatic Programmer illustrates the best practices and major pitfalls of many different aspects of software development.
-    - **Recommended because:**
-        - It's an enlightening and timeless advice about doing your job as a software developer, ideas written in 1999 still relevant today. It forces you to revisit those basic fundamental topics with a very different perspective.
+    - *"It's an enlightening and timeless advice about doing your job as a software developer, ideas written in 1999 still relevant today. It forces you to revisit those basic fundamental topics with a very different perspective."* - zf2timo
     - **[Get on Amazon.com](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_5?ie=UTF8&qid=1547633661&sr=8-5)**
 
 - **Programming Pearls**
@@ -65,6 +62,7 @@
     - [Get on Amazon.com](https://www.amazon.com/gp/product/0137081073/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1)
     
 ## Computer Science & Algorithms
+
 - **Introduction to Algorithms (MIT Press)**
     - Cormen, Thomas H. & Leierson, Charles E. & Rivest, Ronald L. & Stein, Clifford
     - 2009 (3rd Edition)    - 
@@ -72,11 +70,11 @@
 
 - **Computer Science Distilled: Learn the Art of Solving Computational Problems**
     - Filho, Wladston Ferreira & Pictet, Raimondo
-    - 
     - 2017
     - [Get on Amazon.com](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020/ref=sr_1_1?ie=UTF8&qid=1547719288&sr=8-1&)
            
 ## Mathematical Fundamentals
+
 - **A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)**
     - Oakley, Barbara
     - 2014 (1st Edition)
@@ -123,12 +121,14 @@
 ## Front End Engineering, UI & UX
 
 ## Web Development & Frameworks
+
 - **Progressive Web Apps**
     - Hume, Dean Alan
     - 2017 (1st Edition)
     - [Get on Amazon.com](https://www.amazon.com/Progressive-Apps-Dean-Alan-Hume/dp/1617294586/ref=sr_1_4?ie=UTF8&qid=1547716298&sr=8-4&keywords=Progressive+Web+Apps)
 
 ## Software Engineering, Patterns & Architecture
+
 - **Clean Architecture: A Craftsman's Guide to Software Structure and Design**
     - Martin, Robert C.    - 
     - 2017 (1st Edition)
@@ -173,15 +173,16 @@
 ## Security
 
 ## Hacker & Ethics, Reverse Engineering & Cyber Warfare
-    
 
 ## Tech Industry
+
 - **Chaos Monkey: Obsence Fortune and Random Failure in Silicon Valley**
     - Martinez, Antonio Garcia
     - 2018
     - [Get on Amazon.com](https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure-ebook/dp/B07C7DM72N/ref=sr_1_1?ie=UTF8&qid=1547716477&sr=8-1&keywords=Chaos+Monkeys%3A+Inside+the+Silicon+Valley+money+machine)
 
 ## Digital Age, IoT, Digital Revolution
+
 - **Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy**
     - O'Neil, Cathy
     - 2017
@@ -208,6 +209,7 @@
     - [Get on Amazon.com](https://www.amazon.com/Inside-Cyber-Warfare-Mapping-Underworld/dp/1449310044/ref=sr_1_1?ie=UTF8&qid=1547718235&sr=8-1&keywords=Inside+Cyber+Warfare%3A+Mapping+the+Cyber+Underworld)
     
 ## Culture, (Project-) Management & Leadership
+
 - **Brave Leadership: Unleash Your Most Confident, Powerful, and Authentic Self to Get the Results You Need**
     - Davis, Kimberly
     - 2018
