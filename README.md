@@ -18,22 +18,23 @@ For easy purchasing a link to amazon.com *(for the time being only the US versio
 
 **TL;DR Click [here](books.md) to take a shortcut and browse through the books that already have been submitted.**
 
-## How
+Keep in mind, the list is constant work in progress, which is updated continuously.
+
+## The Idea
 
 The idea is to summarize the most recommended books in tech into one repository. From decentralized lists all over the 
 web to centralized list (web app) with still keeping it as simple as possible.
-
-**For contribution details see the [contribution file](contribution.md).**
-
-**On the technical side**
  
-- Github Repository to store the data and make contributions easy
-    - Contributing / submitting a book via PR
-- web page hosted on GitHub *(for the time being)*
-- using a static site generator to update the front end 
-- integrating Solr as the built-in search
+We are using this Github Repository to store the data and make contributions easy. **For contribution details see the [contribution file](contribution.md).** 
 
-**On the front end side**
+
+## What's next
+
+We'll be building a wep app around this Repository. I mean, who doesn't like a fancy-schmancy layout? 
+
+We are thinking about using a static site generator to update the front end and integrating Solr as the built-in search.
+
+**Open To-Dos** 
 
 - displaying books with basic info (as mentioned in the intro)
 - organized through categories / sub-categories
@@ -56,6 +57,4 @@ web to centralized list (web app) with still keeping it as simple as possible.
 - save as Books as Favorite and/or Wanna-Reads and/or Have-Read
 - recommend books (Upvoting) 
 
-
-## What's next
 
