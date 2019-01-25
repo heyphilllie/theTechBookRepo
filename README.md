@@ -9,6 +9,10 @@ The goal of this page is to make you a more proficient programmer. You'll find o
 
 **Click [here](books.md) to take a shortcut and browse through the books that already have been submitted.**
 
+This page is not meant to be complete. We are trying to keep the balance between light and not too overwhelming but yet comprehensive.
+
+The selection of book is opinionated.
+
 ## The Content
 Books in each category *(if applicable, sub-categories were added to main category)* are cataloged by: 
 
@@ -25,16 +29,12 @@ For easy purchasing a link to amazon.com *(for the time being only the US versio
 
     - Get on Amazon.com
 
-This page is not meant to be complete. We are trying to keep the balance between light and not too overwhelming but yet comprehensive.
-
-The selection of book is opinionated.
-
 ## Categories
 
 1. **[Coding in General & Programming Paradigms](books.md#coding-in-general--programming-paradigms)**
 2. **[Computer Science & Algorithms](boks.md#computer-science--algorithms)**
 3. **[Mathematical Fundamentals](books.md#mathematical-fundamentals)**
-4. **[Database](books.md#database-relational-document-based-sql-nosql)**
+4. **[Databases](books.md#database-relational-document-based-sql-nosql)**
 5. **[Programming & Scripting Languages](books.md#programming--scripting-languages)**
     1. [C](books.md#c)
     2. [C++](books.md#c-1)
