@@ -1,24 +1,29 @@
 # theTechBookRepo
 
 ## The Introduction
-A curated collection of must-read books for programmers - developers and anyone interested in a good tech book.
+This repository is a curated collection of *must-read* books for programmers, developers and anyone interested in a good tech book.
 
-**TL;DR Click [here](books.md) to take a shortcut and browse through the books that already have been submitted.**
+**TL;DR**
 
-The goal of this page is to make you a more proficient developer. You'll find only books that other developers found truly inspiring - or that have been become timeless classics.
+**Click [here](books.md) to take a shortcut and browse through the books that already have been submitted.**
 
-Books in each category are cataloged by categroy, title, author, edition, and year of publication. If applicable, sub-categories are added to main category.
+The goal of this page is to make you a more proficient programmer. You'll find only books that other developers found truly inspiring - or that have been become timeless classics.
 
-    - Titel
-    - Tweet-Like Description (in max. 280 char)
-    - Author / Authors
-    - Year (and possibly Editon)
-    - Link to amazon.com
-    - Why it is recommended
+Books in each category *(if applicable, sub-categories were added to main category)* are cataloged by: 
 
-For easy purchasing a link to amazon.com *(for the time being only the US version)* is added. 
+    - title 
+    - author(s)
+    - year and # of edition (if indicated)
+    
+To get a glimpse of what the book is about and to find out whether this is suitable for you, the following information is added:
 
-So far this are the categories (sub-categories are added if applicable).
+    - Short Description (in max. 280 char)
+    - Recommended because
+
+For easy purchasing a link to amazon.com *(for the time being only the US version)* is added: 
+
+    - Get on Amazon.com
+
 
 ## The Content
 
@@ -53,14 +58,16 @@ So far this are the categories (sub-categories are added if applicable).
 16. **[Personal Growth, Learning & Career Hacks](books.md#personal-growth-learning--career-hacks)**
   
 
-Keep in mind, that this list is a constant work in progress, which is updated continuously.
+Keep in mind, that this list is far from being complete and more of a constant work in progress, which is updated continuously. 
+
+**For contribution details see the [contribution file](contribution.md).** 
 
 ## The Idea
 
 The idea is to summarize the most recommended books in tech into one repository. From decentralized lists all over the 
 web to centralized list (web app) with still keeping it as simple as possible.
  
-We are using this Github Repository to store the data and make contributions easy. **For contribution details see the [contribution file](contribution.md).** 
+We are using this Github Repository to store the data and make contributions easy.
 
 
 ## The Vision
