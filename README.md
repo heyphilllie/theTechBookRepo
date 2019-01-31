@@ -5,15 +5,18 @@ web to centralized list (web app) with still keeping it as simple as possible.
 
 The goal of this page is to make you a more proficient programmer. You'll find only books that other developers found truly inspiring - or that have been become timeless classics.
 
-**TL;DR**
+**TLDR**
 
-**Click [here](books.md) to take a shortcut and browse through the books that already have been submitted.**
+Click **[here](books.md)** to take a shortcut and browse through the books that already have been submitted.
+
+
+**Disclaimer**
 
 This page is not meant to be complete. We are trying to keep the balance between light and not too overwhelming but yet comprehensive.
 
 The selection of book is opinionated.
 
-## The Content
+## The Structure
 Books in each category *(if applicable, sub-categories were added to main category)* are cataloged by: 
 
     - title 
@@ -29,7 +32,7 @@ For easy purchasing a link to amazon.com *(for the time being only the US versio
 
     - Get on Amazon.com
 
-## Categories
+## The Contents
 
 1. **[Coding in General & Programming Paradigms](books.md#coding-in-general--programming-paradigms)**
 2. **[Computer Science & Algorithms](books.md#computer-science--algorithms)**
