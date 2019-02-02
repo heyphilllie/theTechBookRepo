@@ -35,10 +35,12 @@
 ## Coding in General & Programming Paradigms
 
 - **The Pragmatic Programmer: From Journeyman to Master**
+     
+     This is an enlightening and timeless advice about doing your job as a software developer, ideas written in 1999 still relevant today. It forces you to revisit those basic fundamental topics with a very different perspective.
+
     - Hunt, Andrew & Thomas, David
     - 1999 (1st Edition)
     - Written as a series of self-contained sections and filled with entertaining anecdotes, thoughtful examples, and interesting analogies, The Pragmatic Programmer illustrates the best practices and major pitfalls of many different aspects of software development.
-    - *"It's an enlightening and timeless advice about doing your job as a software developer, ideas written in 1999 still relevant today. It forces you to revisit those basic fundamental topics with a very different perspective."* - zf2timo
     - **[Get on Amazon.com](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_5?ie=UTF8&qid=1547633661&sr=8-5)**
 
 - **Programming Pearls**
