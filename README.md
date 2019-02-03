@@ -1,7 +1,8 @@
 # The Tech Book Repository
 
 This repository is a curated collection of *must-read* books for programmers, developers and anyone interested in a good tech book. 
-The idea behind this is to put the many lists of book recommendations into one handy repository, with the goal to make you a more proficient programmer. You'll find only books that other developers found truly inspiring - or that have been become timeless classics.
+The idea behind this is to put the many lists of book recommendations into one handy repository, with the goal to make you a more proficient programmer. 
+You'll find only books that other developers found truly inspiring - or that have been become timeless classics. 
 
 **TLDR**
 
@@ -13,7 +14,7 @@ Click **[here](books.md)** to take a shortcut and browse through the books that 
  - it's an ongoing work in progress
  - the selection of book is opinionated
 
-We're trying to keep the balance between light and not too overwhelming but yet comprehensive.
+We're trying to keep the balance between light and not too overwhelming but yet comprehensive. :boom:
 
 ## Structure
 
@@ -71,16 +72,11 @@ Keep in mind, that this list is far from being complete and more of a constant w
 
 Feel free to open a PR to contribute - whether it be a submission of a book, fixing content and/or spelling mistakes or make a suggestion for improvement! We're always happy to hear from you. 
 
-If you've got questions or anything else, feel also feel free to get in touch!
+If you've got questions or anything else, feel also feel free to get in touch! :yellow_heart:
 
 For more information read the [contribution file](contribution.md).
 
 ## Vision for the future
 
 We're thinking about building a wep app based on this repository. I mean, seriously, who doesn't like a fancy-schmancy web app?! 
-And more important, who doesn't like creating a web app?! 
-
-
-
-
-
+And more important, who doesn't like creating a web app?! :smirk:
