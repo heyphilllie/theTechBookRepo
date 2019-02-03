@@ -119,11 +119,13 @@
     - [Get on Amazon.com](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?ie=UTF8&qid=1547719147&sr=8-1&keywords=C%2B%2B+primer)
 
 - **The C++ Programming Language**
+
+    The new C++11 standard allows programmers to express ideas more clearly, simply, and directly, and to write faster, more efficient code. Bjarne Stroustrup, the designer and original implementer of C++, has reorganized, extended, and completely rewritten his definitive reference and tutorial for programmers who want to use C++ most effectively.
+    It's considered a classic, though it serves to introduce the language (and preferably, the rationale behind it) to someone who is already familiar with computer programming.
+
     - Stroustrup, Bjarne
     - 2013 (4th Edition)   
-     - The new C++11 standard allows programmers to express ideas more clearly, simply, and directly, and to write faster, more efficient code. Bjarne Stroustrup, the designer and original implementer of C++, has reorganized, extended, and completely rewritten his definitive reference and tutorial for programmers who want to use C++ most effectively.
-     - recommended because: It's considered a classic, though it serves to introduce the language (and preferably, the rationale behind it) to someone who is already familiar with computer programming.
-     - [Get on Amazon.com](https://www.amazon.com/Programming-Language-hardcover-4th/dp/0321958322?SubscriptionId=AKIAI7CDZ6GCMNSOTDZQ&tag=favorites090-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0321958322)
+    - [Get on Amazon.com](https://www.amazon.com/Programming-Language-hardcover-4th/dp/0321958322?SubscriptionId=AKIAI7CDZ6GCMNSOTDZQ&tag=favorites090-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0321958322)
 ### Python
 ### PHP
 ### JAVA
