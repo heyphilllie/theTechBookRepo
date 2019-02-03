@@ -1,7 +1,7 @@
 # The Tech Book Repository
 
 This repository is a curated collection of *must-read* books for programmers, developers and anyone interested in a good tech book. 
-The idea behind this is to put the many lists of book recommendations into one handy repository, with the goal of this page is to make you a more proficient programmer. You'll find only books that other developers found truly inspiring - or that have been become timeless classics.
+The idea behind this is to put the many lists of book recommendations into one handy repository, with the goal to make you a more proficient programmer. You'll find only books that other developers found truly inspiring - or that have been become timeless classics.
 
 **TLDR**
 
