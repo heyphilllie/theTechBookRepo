@@ -4,22 +4,18 @@
 
 For submitting books just open a Pull Request and add the necessary information:
 
-Books in each category *(if applicable, sub-categories were added to main category)* are cataloged by: 
+Books in each category *(if applicable, add relevant sub-category)* are cataloged by: 
 
-    - which category (if applicable which sub-category) does the book belong to?
+- main category (if applicable sub-category) the book belong to (see [Table of Content](README.md#the-contents))
 
-    - What's the Title? 
-    - Who is / are the authors/s?
-    - What's the year of publication and if indicated # of edition ?
-    
-To get a glimpse of what the book is about and to find out whether this is suitable for you, the following information is added:
+- Title
+- Author/s
+- Year of Publication (and if indicated number of edition)
+  
+- Short descripting abot the books content and why you recommend it.
 
-    - Add a short description (in app. 280 char) of what the book is about and why you recommend it
-
-For easy purchasing a link to amazon.com *(for the time being only the US version)* is added: 
-
-    - Add a link to the book on Amazon.com
-    
+By *short description* we mean short. Do not let that intimidate you, just write 1-2 sentences.
+      
 
 ## Submitting a change and/or feature request
 
