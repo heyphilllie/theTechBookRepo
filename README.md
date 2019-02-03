@@ -1,22 +1,22 @@
 # The Tech Book Repository
-This repository is a curated collection of *must-read* books for programmers, developers and anyone interested in a good tech book. 
-The idea is to summarize the most recommended books in tech into one repository. From decentralized lists all over the 
-web to centralized list (web app) with still keeping it as simple as possible.
 
-The goal of this page is to make you a more proficient programmer. You'll find only books that other developers found truly inspiring - or that have been become timeless classics.
+This repository is a curated collection of *must-read* books for programmers, developers and anyone interested in a good tech book. 
+The idea behind this is to put the many lists of book recommendations into one handy repository, with the goal of this page is to make you a more proficient programmer. You'll find only books that other developers found truly inspiring - or that have been become timeless classics.
 
 **TLDR**
 
 Click **[here](books.md)** to take a shortcut and browse through the books that already have been submitted.
 
+**Keep in Mind**
 
-**Disclaimer**
+ - this page is not meant to be complete
+ - it's an ongoing work in progress
+ - the selection of book is opinionated
 
-This page is not meant to be complete. We are trying to keep the balance between light and not too overwhelming but yet comprehensive.
+We're trying to keep the balance between light and not too overwhelming but yet comprehensive.
 
-The selection of book is opinionated.
+## Structure
 
-## The Structure
 Books in each category *(if applicable, sub-categories were added to main category)* are cataloged by: 
 
     - title 
@@ -25,14 +25,13 @@ Books in each category *(if applicable, sub-categories were added to main catego
     
 To get a glimpse of what the book is about and to find out whether this is suitable for you, the following information is added:
 
-    - Short Description (in max. 280 char)
-    - Recommended because
+    - Short Description what the book is all about and why it's recommended / what makes it so valuable
 
 For easy purchasing a link to amazon.com *(for the time being only the US version)* is added: 
 
     - Get on Amazon.com
 
-## The Contents
+## Contents
 
 1. **[Coding in General & Programming Paradigms](books.md#coding-in-general--programming-paradigms)**
 2. **[Computer Science & Algorithms](books.md#computer-science--algorithms)**
@@ -76,9 +75,9 @@ If you've got questions or anything else, feel also feel free to get in touch!
 
 For more information read the [contribution file](contribution.md).
 
-## The Vision
+## Vision for the future
 
-We're thinking about building a wep app around this Repository. I mean, seriously, who doesn't like a fancy-schmancy web app?! 
+We're thinking about building a wep app based on this repository. I mean, seriously, who doesn't like a fancy-schmancy web app?! 
 And more important, who doesn't like creating a web app?! 
 
 
