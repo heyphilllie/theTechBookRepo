@@ -1,34 +1,34 @@
 # Table Of Contents
 
-1. **[Coding in General & Programming Paradigms](books.md#coding-in-general--programming-paradigms)**
-2. **[Computer Science & Algorithms](books.md#computer-science--algorithms)**
-3. **[Mathematical Fundamentals](books.md#mathematical-fundamentals)**
+1. **[Coding in General & Programming Paradigms](books.md#1-coding-in-general--programming-paradigms)**
+2. **[Computer Science & Algorithms](books.md#2-computer-science--algorithms)**
+3. **[Mathematical Fundamentals](books.md#3-mathematical-fundamentals)**
 4. ***Databases***
-5. **[Programming & Scripting Languages](books.md#programming--scripting-languages)**
-    1. [C](books.md#c)
-    2. [C++](books.md#c-1)
+5. **[Programming & Scripting Languages](books.md#5-programming--scripting-languages)**
+    1. [C](books.md#51-c)
+    2. [C++](books.md#52-c-1)
     3. *Python*
     4. *PHP*
-    5. [Java](books.md#java)
+    5. [Java](books.md#55-java)
     6. *GO*
-    7. [JavaScript](books.md#javascript)
+    7. [JavaScript](books.md#57-javascript)
     8. *HTML / CSS*
 6. ***Mobile Development***
     1. *iOS Development*
     2. *Android Development*
-7. **[Web Development & Frameworks](books.md#web-development--frameworks)**        
-8. **[Front End Engineering, UI & UX](books.md#front-end-engineering-ui--ux)**
-9. **[Software Engineering, Patterns & Architecture](books.md#software-engineering-patterns--architecture)**
+7. **[Web Development & Frameworks](books.md#7-web-development--frameworks)**        
+8. ***Front End Engineering, UI & UX***
+9. **[Software Engineering, Patterns & Architecture](books.md#9-software-engineering-patterns--architecture)**
 10. ***Data Science***
     1. *Data Visualization*
     2. *Machine Learning]*
     3. *Artificial Intelligence*
 11. ***Security***
 12. ***Hacker & Ethics, Reverse Engineering & Cyber Warfare***    
-13. **[Tech Industry](books.md#tech-industry)** 
-14. **[Digital Age, Digital Revolution & IoT](books.md#digital-age-iot-digital-revolution)**
-15. **[Culture, (Project-) Management & Leadership](books.md#culture-project--management--leadership)**
-16. **[Personal Growth, Learning & Career Hacks](books.md#personal-growth-learning--career-hacks)**
+13. **[Tech Industry](books.md#13-tech-industry)** 
+14. **[Digital Age, Digital Revolution & IoT](books.md#14-digital-age-iot-digital-revolution)**
+15. **[Culture, (Project-) Management & Leadership](books.md#15-culture-project--management--leadership)**
+16. **[Personal Growth, Learning & Career Hacks](books.md#16-personal-growth-learning--career-hacks)**
     
 
 ## 1. Coding in General & Programming Paradigms
