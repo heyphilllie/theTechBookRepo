@@ -34,7 +34,7 @@ Feel free to open a PR to contribute - whether it be a submission of a book, fix
 
 If you've got questions or anything else, feel also feel free to get in touch! :yellow_heart:
 
-For more information read the [contribution file](contribution.md).
+For more information read the [contribution file](CONTRIBUTING.md).
 
 ## Vision for the future
 
