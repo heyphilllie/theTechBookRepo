@@ -5,35 +5,40 @@
 3. **[Mathematical Fundamentals](books.md#3-mathematical-fundamentals)**
 4. ***Databases***
 5. **[Programming & Scripting Languages](books.md#5-programming--scripting-languages)**
-    1. [C](books.md#51-c)
-    2. [C++](books.md#52-c-1)
-    3. *Python*
-    4. *PHP*
-    5. [Java](books.md#55-java)
-    6. *GO*
-    7. [JavaScript](books.md#57-javascript)
-    8. *HTML / CSS*
+    5.1 [C](books.md#51-c)
+    5.2 [C++](books.md#52-c-1)
+    5.3 *Python*
+    5.4 *PHP*
+    5.5 [Java](books.md#55-java)
+    5.6 *GO*
+    5.7 [JavaScript](books.md#57-javascript)
+    5.8 *HTML / CSS*
 6. ***Mobile Development***
-    1. *iOS Development*
-    2. *Android Development*
-7. **[Web Development & Frameworks](books.md#7-web-development--frameworks)**        
-8. ***Front End Engineering, UI & UX***
-9. **[Software Engineering, Patterns & Architecture](books.md#9-software-engineering-patterns--architecture)**
-10. ***Data Science***
-    1. *Data Visualization*
-    2. *Machine Learning]*
-    3. *Artificial Intelligence*
-11. ***Security***
-12. ***Hacker & Ethics, Reverse Engineering & Cyber Warfare***    
-13. **[Tech Industry](books.md#13-tech-industry)** 
-14. **[Digital Age, Digital Revolution & IoT](books.md#14-digital-age-iot-digital-revolution)**
-15. **[Culture, (Project-) Management & Leadership](books.md#15-culture-project--management--leadership)**
-16. **[Personal Growth, Learning & Career Hacks](books.md#16-personal-growth-learning--career-hacks)**
+    6.1 *iOS Development*
+    6.2 *Android Development*        
+7. ***Front End Engineering***
+8. ***Web Design**
+    8.1 Web Design in General
+    8.2 UI Design
+    8.3 UX Design
+    8.4 Interaction Design
+9. **[Web Development & Frameworks](books.md#9-web-development--frameworks)**
+10. **[Software Engineering, Patterns & Architecture](books.md#10-software-engineering-patterns--architecture)**
+11. ***Data Science***
+    11.1 *Data Visualization*
+    11.2 *Machine Learning]*
+    11.3 *Artificial Intelligence*
+12. ***Security***
+13. ***Hacker & Ethics, Reverse Engineering & Cyber Warfare***    
+14. **[Tech Industry](books.md#13-tech-industry)** 
+15. **[Digital Age, Digital Revolution & IoT](books.md#15-digital-age-iot-digital-revolution)**
+16. **[Culture, (Project-) Management & Leadership](books.md#16-culture-project--management--leadership)**
+17. **[Personal Growth, Learning & Career Hacks](books.md#17-personal-growth-learning--career-hacks)**
     
 
 ## 1. Coding in General & Programming Paradigms
 
-#### 1.1 The Pragmatic Programmer: From Journeyman to Master
+#### The Pragmatic Programmer: From Journeyman to Master
 
 Written as a series of self-contained sections and filled with entertaining anecdotes, thoughtful examples, and interesting analogies, this book illustrates the best practices and major pitfalls of many different aspects of software development.
 It's an enlightening and timeless advice about doing your job as a software developer, ideas written in 1999 still relevant today. It forces you to revisit those basic fundamental topics with a very different perspective. 
@@ -42,7 +47,7 @@ It's an enlightening and timeless advice about doing your job as a software deve
 - 1999 (1st Edition)
 - **[Get on Amazon.com](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_5?ie=UTF8&qid=1547633661&sr=8-5)**  
 
-#### 1.2 Programming Pearls
+#### Programming Pearls
 
 With origins beyond solid engineering, in the realm of insight and creativity, Bentley's pearls offer unique and clever solutions to those nagging problems. Illustrated by programs designed as much for fun as for instruction, the book is filled with lucid and witty descriptions of practical programming techniques and fundamental design principles. 
 This work is an all-time classic, highly valued by programmers at every level of experience, and often described as one of the most influentiual books read in a programmer's career.
@@ -51,7 +56,7 @@ This work is an all-time classic, highly valued by programmers at every level of
    - 1999 (2nd Edition)
    - **[Get on Amazon.com](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880/ref=sr_1_1?ie=UTF8&qid=1547716416&sr=8-1&)**
     
-#### 1.3 Clean Code: A Handbook of Agile Software Craftsmanship
+#### Clean Code: A Handbook of Agile Software Craftsmanship
      
 Justly described as amust for any developer, software engineer, project manager, team lead, or systems analyst with an interest in producing better code. Best agile practices of cleaning code “on the fly” that will instill within you the values of a software craftsman and make you a better programmer—but only if you work at it. 
     
@@ -59,24 +64,24 @@ Justly described as amust for any developer, software engineer, project manager,
    - 2008 (1st Edition)
    - **[Get on Amazon.com](https://www.amazon.com/gp/product/0132350882/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)**
     
-#### 1.4 The Clean Coder: A Code of Conduct for professional Programmers
+#### The Clean Coder: A Code of Conduct for professional Programmers
    - Martin, Robert C.
    - 2011 (1st Edition)
    - **[Get on Amazon.com](https://www.amazon.com/gp/product/0137081073/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1)**
     
 ## 2. Computer Science & Algorithms
 
-#### 2.1 Introduction to Algorithms (MIT Press)
+#### Introduction to Algorithms (MIT Press)
    - Cormen, Thomas H. & Leierson, Charles E. & Rivest, Ronald L. & Stein, Clifford
    - 2009 (3rd Edition)
    - **[Get on Amazon.com](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_2?ie=UTF8&qid=1547719037&sr=8-2&)**
 
-#### 2.2 Computer Science Distilled: Learn the Art of Solving Computational Problems
+#### Computer Science Distilled: Learn the Art of Solving Computational Problems
    - Filho, Wladston Ferreira & Pictet, Raimondo
    - 2017
    - **[Get on Amazon.com](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020/ref=sr_1_1?ie=UTF8&qid=1547719288&sr=8-1&)**
            
-#### 2.3 Structure and Interpretation of Computer Programs
+#### Structure and Interpretation of Computer Programs
 
 This book has had a dramatic impact on computer science curricula over the past decade.
 To anyone not sure of what this stands for, it is Structure and Interpretation of Computer Programs and is a very good read for those looking to learn about computer science. It does require commitment in that it is not a book you rush through, rather you take your time and make sure you understand it bit by bit - but worth it because it makes sure you get a solid foundation of cs knowledge.
@@ -85,7 +90,7 @@ To anyone not sure of what this stands for, it is Structure and Interpretation o
    - 1996 (2nd Edition) 
    - **[Get on Amazon.com](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871?SubscriptionId=AKIAI7CDZ6GCMNSOTDZQ&tag=favorites090-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0262510871)**
 
-#### 2.4 The Art of Computer Programming (Volumes 1-4)
+#### The Art of Computer Programming (Volumes 1-4)
 
 The bible of all fundamental algorithms and the work that taught many of today’s software developers most of what they know about computer programming.
 Whatever your background, if you need to do any serious computer programming, you will find your own good reason to make each volume in this series a readily accessible part of your scholarly or professional library. Countless readers have spoken about the profound personal influence of Knuth’s work, and admire Knuth for the breadth, clarity, accuracy, and good humor found in his books.
@@ -96,7 +101,7 @@ Whatever your background, if you need to do any serious computer programming, yo
 
 ## 3. Mathematical Fundamentals
 
-#### 3.1 A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
+#### A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
    - Oakley, Barbara
    - 2014 (1st Edition)
    - **[Get on Amazon.com](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=A+Mind+for+Numbers%3A+How+to+Excel+at+Math+and+Science+%28Even+If+You+Flunked+Algebra%29)**
@@ -106,18 +111,18 @@ Whatever your background, if you need to do any serious computer programming, yo
 ## 5. Programming & Scripting Languages
 
 ### 5.1 C
-#### 5.1.1 C Programming Language
+#### C Programming Language
    - Kernighan, Brian W. & Ritchie, Dennis M.
    - 1988 (2nd Edition)
    - [Get on Amazon.com](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ref=sr_1_3?ie=UTF8&qid=1547718911&sr=8-3&keywords=c+programming+language)
 
 ### 5.2 C++
-#### 5.2.1 C++ Primer
+#### C++ Primer
    - Lippman, Stanley B. & Lajoie, Josée & Moo, Barbara E.
    - 2012 (5th Edition)
    - [Get on Amazon.com](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?ie=UTF8&qid=1547719147&sr=8-1&keywords=C%2B%2B+primer)
 
-#### 5.2.2 The C++ Programming Language
+#### The C++ Programming Language
 
 The new C++11 standard allows programmers to express ideas more clearly, simply, and directly, and to write faster, more efficient code. Bjarne Stroustrup, the designer and original implementer of C++, has reorganized, extended, and completely rewritten his definitive reference and tutorial for programmers who want to use C++ most effectively.
 It's considered a classic, though it serves to introduce the language (and preferably, the rationale behind it) to someone who is already familiar with computer programming.
@@ -129,19 +134,19 @@ It's considered a classic, though it serves to introduce the language (and prefe
 ### 5.3 Python
 ### 5.4 PHP
 ### 5.5 JAVA
-#### 5.5.1 Head First JAVA: A Brain-Friendly Guide
+#### Head First JAVA: A Brain-Friendly Guide
    - Sierra, Kathy & Bates, Bert
    - 2005 (2nd Edition)
    - [Get on Amazon.com](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=sr_1_1?ie=UTF8&qid=1547718825&sr=8-1&keywords=Head+First+JAVA)
     
-#### 5.5.2 Effective Java
+#### Effective Java
    - Bloch, Joshua
    - 2018 (3rd Edition)
    - [Get on Amazon.com](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997/ref=sr_1_2?ie=UTF8&qid=1547718981&sr=8-2&keywords=Effective+Java)
     
 ### 5.6 GO
 ### 5.7 JavaScript
-#### 5.7.1 JavaScript: The Good Parts
+#### JavaScript: The Good Parts
 
 This is a book about the JavaScript programming language. It is intended for programmers who, by happenstance or curiosity, are venturing into JavaScript for the first time. It is also intended for programmers who have been working with JavaScript at a novice level and are now ready for a more sophisticated relationship with the language. JavaScript is a surprisingly powerful language. Its presents some challenges, but being a small language, it is easily mastered. 
 It's a great book that will bring your understanding of JS from intermediate to the beginnings of expert.
@@ -161,7 +166,7 @@ It's a great book that will bring your understanding of JS from intermediate to 
 
 ## 8. Web Design
 
-### 8.1 Web Design Basics
+### 8.1 Web Design in General
 ### 8.2 User Interface Design (UI)
 ### 8.3 User Experience (UX)
 ### 8.5 Interaction Design
