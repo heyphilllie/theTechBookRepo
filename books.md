@@ -5,29 +5,29 @@
 3. **[Mathematical Fundamentals](books.md#3-mathematical-fundamentals)**
 4. ***Databases***
 5. **[Programming & Scripting Languages](books.md#5-programming--scripting-languages)**
-    5.1 [C](books.md#51-c)
-    5.2 [C++](books.md#52-c-1)
-    5.3 *Python*
-    5.4 *PHP*
-    5.5 [Java](books.md#55-java)
-    5.6 *GO*
-    5.7 [JavaScript](books.md#57-javascript)
-    5.8 *HTML / CSS*
+    1. [C](books.md#51-c)
+    2. [C++](books.md#52-c-1)
+    3. *Python*
+    4. *PHP*
+    5. [Java](books.md#55-java)
+    6. *GO*
+    7. [JavaScript](books.md#57-javascript)
+    8. *HTML / CSS*
 6. ***Mobile Development***
-    6.1 *iOS Development*
-    6.2 *Android Development*        
+    1. *iOS Development*
+    2. *Android Development*        
 7. ***Front End Engineering***
-8. ***Web Design**
-    8.1 Web Design in General
-    8.2 UI Design
-    8.3 UX Design
-    8.4 Interaction Design
+8. ***Web Design***
+    1. Web Design in General
+    2. UI Design
+    3. UX Design
+    4.Interaction Design
 9. **[Web Development & Frameworks](books.md#9-web-development--frameworks)**
 10. **[Software Engineering, Patterns & Architecture](books.md#10-software-engineering-patterns--architecture)**
 11. ***Data Science***
-    11.1 *Data Visualization*
-    11.2 *Machine Learning]*
-    11.3 *Artificial Intelligence*
+    1. *Data Visualization*
+    2. *Machine Learning]*
+    3. *Artificial Intelligence*
 12. ***Security***
 13. ***Hacker & Ethics, Reverse Engineering & Cyber Warfare***    
 14. **[Tech Industry](books.md#13-tech-industry)** 
